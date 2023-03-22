@@ -1,0 +1,5 @@
+This project is a Pomodoro app.
+
+I allows the user to list the tasks they have to do and organize them.
+It allows the user to set a Timer for their productivity session and also proposes a live study music to play.
+
